@@ -1,1 +1,1 @@
-# InnogamesCodeSample
+# CodeSample
